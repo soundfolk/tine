@@ -1,0 +1,70 @@
+.pink {
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#dise {
+    text-align: center;
+}
+
+.box {
+    border: 2px;
+    text-align: center;
+    border-style: solid;
+    font-weight: 200;
+    font-size: larger;
+    border-color: black;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#bib {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+#bibs {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+#sign {
+
+    font-size: 80px;
+    font-weight: bold;
+    height: 400px;
+}
+
+
+body {
+    background-image: url("sd.jpg");
+    height: 10px;
+}
+
+#bit {
+    margin-left: 20px;
+    height: 70px;
+    width: 200px;
+    font-size: 80px;
+    border-width: 5px;
+    text-align: center;
+    background-color: white;
+}
+
+#submit {
+    background-color: red;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    box-shadow: 2px 2px 2px black;
+    border-radius: 20px;
+    margin-left: 20px;
+    width: 200px;
+    height: 60px;
+}
+
+#time {
+    font-size: 20px;
+}
